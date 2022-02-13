@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Go for search
+            Hello World from Hassan
         </a>
       </header>
     <content>
