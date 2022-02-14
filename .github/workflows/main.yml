@@ -39,7 +39,7 @@ jobs:
         
             
       - name: Creating build
-        run:  yarn run dev 
+        run:  yarn build 
         
       - name: installing surge
         run:  npm install --global surge 
